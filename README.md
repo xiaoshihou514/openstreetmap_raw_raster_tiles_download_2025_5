@@ -27,6 +27,8 @@ This repo contains the following zoom levels as PNG files:
 
 If you use level 10, the map is detailed enough to see districts of major cities, which should be more than enough for test cases.
 
+Level 10 is also separated in 2 files to avoid file size limit, use `7z x 10_sub.zip` to extract.
+
 # LICENSE
 
 [ODbL](https://www.openstreetmap.org/copyright/)

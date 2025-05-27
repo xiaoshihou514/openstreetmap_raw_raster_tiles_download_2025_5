@@ -1,0 +1,14 @@
+[
+  {
+    "name": "codeberg",
+    "url": "ssh://git@codeberg.org/xiaoshihou/openstreetmap_raw_raster_tiles_download_2025_5.git"
+  },
+  {
+    "name": "sourcehut",
+    "url": "git@git.sr.ht:~xiaoshihou/openstreetmap_raw_raster_tiles_download_2025_5"
+  },
+  {
+    "name": "gitlab",
+    "url": "git@gitlab.com:xiaoshihou/openstreetmap_raw_raster_tiles_download_2025_5.git"
+  }
+]
